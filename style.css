@@ -1,0 +1,26 @@
+﻿body {
+    
+    text-align:left;
+}
+
+h1 {
+    background-color: crimson;
+    font-family: 'Arial';
+    font-size: 34px;
+}
+
+p{
+    background-color:antiquewhite;
+    font-family: 'Century Schoolbook';
+    font-size: 24px;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+div.card {
+    background-color: dimgray;
+    color: lightblue;
+    max-width: 400px;
+}
